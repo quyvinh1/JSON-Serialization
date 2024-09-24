@@ -1,0 +1,30 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Apple"
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Minh"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Orange"
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "Grape"
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "Strawberry"
+  },
+  {
+    "ProductID": 6,
+    "ProductName": "Vinh"
+  },
+  {
+    "ProductID": 7,
+    "ProductName": "Minh"
+  }
+]
